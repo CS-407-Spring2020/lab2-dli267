@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void clickFunction(View view) {
 
-        Log.i("Info", "Button pressed");
+        //Log.i("Info", "Button pressed");
 
         EditText myTextField = (EditText) findViewById(R.id.myTextField);
 
